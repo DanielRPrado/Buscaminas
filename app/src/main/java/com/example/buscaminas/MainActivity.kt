@@ -41,6 +41,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun buscaMinas(name: String, modifier: Modifier = Modifier) {
 
+
     val filas = 10
     val columnas = 6
 
